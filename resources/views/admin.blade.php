@@ -62,7 +62,7 @@
                                   </button>
                                 </div>
                                 <div class="modal-body">
-                                  <form action="/publi/admin/proses" method="post" enctype="multipart/form-data">
+                                  <form action="/admin/proses" method="post" enctype="multipart/form-data">
 
                                     {{csrf_field()}}
                                     <div class="form-group">
