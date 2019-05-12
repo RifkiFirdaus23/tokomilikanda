@@ -30,7 +30,7 @@ Route::get('/barang', 'BarangController@index');
 
 Route::get('/admin', 'AdminController@admin');
 
-Route::post('/admin/proses', 'AdminController@proses');
+Route::post('/public//admin/proses', 'AdminController@proses');
 
 Route::get('/admin/edit/{id}', 'AdminController@edit');
 
