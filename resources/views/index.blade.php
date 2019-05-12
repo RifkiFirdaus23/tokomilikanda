@@ -12,7 +12,9 @@
   </head>
   <body background="img/d.jpg">
     <!-- Image and text -->
+    @extends('layouts.app')
 
+    @section('content')
 
     <div class="container">
         <!-- Outer Row -->
@@ -95,7 +97,7 @@
                   </div>
                 </div>
               </div>
-            </div>   
+            </div>
 
 
 
