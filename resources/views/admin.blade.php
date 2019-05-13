@@ -75,7 +75,10 @@
                                       <option  disabled selected>Pilih Gambar</option>
                                       <option value="https://d2pa5gi5n2e1an.cloudfront.net/global/images/product/laptops/ASUS_X455LA/ASUS_X455LA_L_1.jpg">Leptop Asus</option>
                                       <option value="https://d2pa5gi5n2e1an.cloudfront.net/global/images/product/laptops/Axioo_Neon_RNW_123/Axioo_Neon_RNW_123_L_1.jpg">Leptop Axioo</option>
-                                    </select>
+                                      <option value="http://static.bmdstatic.com/pk/product/medium/5afe4cefbaa40.jpg">Dell</option>
+                                      <option value="http://teknotips.com/wp-content/uploads/2017/01/Laptop-Acer-Wajib-Dipilih-Pelajar-Indonesia.jpg">Acer</option>
+                                       
+                                   </select>
                                     <div class="form-group">
                                       <label for="exampleInputEmail1">Harga</label>
                                       <input type="harga" name="harga" class="form-control" id="exampleInputEmail1"  required>
